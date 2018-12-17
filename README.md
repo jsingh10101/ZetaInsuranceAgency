@@ -5,5 +5,5 @@ The working interface for an insurance company. Developed as 12th standard proje
 
 Step1 : Extract ZetaInsuranceAgency folder to Netbeans Project folder in My documents
 
-Step2: Extract Table backup somewhere. Open mysql. Create and use a database zetains and the use source query to execute the backup.
+Step2 : Open mysql. Create and use a database zetains and then use "source" query to execute the backup : zetains.sql.
 This would help to vew the program.
